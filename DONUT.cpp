@@ -1,4 +1,3 @@
-		// 2020497 talha yunus ------ 2020408 rajab ali
 
 #include <iostream>
 #include <cmath>
@@ -137,7 +136,7 @@ void DONUT::setValues()
         cin>>radius;
         cout<<"ENTER K2 (distance from viewer): ";
         cin>>K2;
-        cout<<"ENTER z (K2) : ";
+        cout<<"ENTER z (K1) : ";
         cin>>z;
         resolution = width * height;
     }
